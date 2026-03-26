@@ -1,0 +1,15 @@
+2026-03-26 17:50:47,481 - INFO - Starting processing for file1.txt and file2.txt
+2026-03-26 17:50:47,481 - ERROR - File not found: One or both files do not exist
+2026-03-26 17:50:47,481 - INFO - Execution completed
+2026-03-26 17:51:47,114 - INFO - Starting processing for file1.txt and file2.txt
+2026-03-26 17:51:47,115 - INFO - Files processed successfully
+2026-03-26 17:51:47,116 - INFO - Execution completed
+2026-03-26 18:00:31,282 - INFO - Starting processing for file1.txt and file2.txt
+2026-03-26 18:00:31,283 - ERROR - Second file is empty
+2026-03-26 18:00:31,284 - INFO - Execution completed
+2026-03-26 18:01:43,547 - INFO - Starting processing for file1.txt and file2.txt
+2026-03-26 18:01:43,557 - INFO - Files processed successfully
+2026-03-26 18:01:43,557 - INFO - Execution completed
+2026-03-26 18:20:36,697 - root - INFO - Starting processing for file1.txt and file2.txt
+2026-03-26 18:20:36,698 - root - INFO - Files processed successfully
+2026-03-26 18:20:36,698 - root - INFO - Execution completed

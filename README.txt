@@ -1,0 +1,1 @@
+1) To run this program - open this folder in cmd or terminal then type script.py followed by "file1.txt" and "file2.txt"
